@@ -32,4 +32,5 @@ The script will send the message to each phone number in the phone.txt file usin
 This script uses the following libraries:
 
 [requests](https://pypi.org/project/requests/) for making HTTP requests.
+
 [fake_useragent](https://pypi.org/project/fake-useragent/) for generating random user agents.
